@@ -213,7 +213,7 @@
 	damage = 35
 	sharp = 1
 	edge = 1
-	damage_type = BURN
+	damage_type = BRUTE
 	life_span = 5
 	pass_flags = PASS_FLAG_TABLE
 	distance_falloff = 4
